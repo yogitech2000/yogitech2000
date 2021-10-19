@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning something new ever day.
 - 🌱 I’m currently learning Python, Java, HTML5, 
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me on youtube, Instagram, Telegram
 
 <!---
 yogitech2000/yogitech2000 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
